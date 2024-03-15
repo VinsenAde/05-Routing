@@ -15,9 +15,11 @@ Apabila pembuatan jumlah yang banyak akan membuat banyak sekali folder bahkan hi
 ![image](https://drive.google.com/uc?export=view&id=1VpyIxDHTPriYN7DzkAK3KV1NkAGDNZ6P)
 Soal 3
 Todo 1: Perbaiki implementasi Praktikum 2 menggunakan Dynamic Routes
-![image](https://drive.google.com/uc?export=view&id=1yc-1uFy453nF5oZwYT0eU5FpcB3qf4nGu9Aa)
-Todo 2: Dengan menggunakan konsep Nested Routes dan Dynamic Routes, buatlah halaman dengan routing /products/[productId]/reviews/[reviewId]
-![image](https://drive.google.com/uc?export=view&id=XeEgVZXF2HAmB9k_gh8LorSV8fTMC)
+![image](https://drive.google.com/uc?export=view&id=1yc-XeEgVZXF2HAmB9k_gh8LorSV8fTMC)
+
+Todo 2: Dengan menggunakan konsep Nested Routes dan Dynamic Routes, buatlah halaman dengan routing
+![image](https://drive.google.com/uc?export=view&id=1yv_b9phnQx6oNL-c5b_Uom3c2O4Cw3c6)
+
 Soal 4
 Todo: Tambahkan link yang sebelumnya anda telah kerjakan!|
 ![image](https://drive.google.com/uc?export=view&id=1X_85stQapNDt0O30qFqoXYhKwND94FIO)
