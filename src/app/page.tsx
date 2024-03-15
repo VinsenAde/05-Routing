@@ -1,12 +1,14 @@
+import Link from "next/link";
 export default function Home() {
-    return(
-        <> 
-        <h1>HALO SAYA SEDANG BELAJAR REACT</h1>
-        <h2>Perkenalkan nama saya Vinsensius Ade Winata</h2>       
-        <h2>Saya berasal dari Batu</h2>
-        <h2>Hobi saya main game</h2>
-        <h2>Saya mahasiswa Politeknik Negeri Malang</h2>
-        <h2>Saya pernah mengikuti beasiswa IISMA</h2>
-        </>
-    )
+    return (
+        <div>
+          <h1>Welcome to Home</h1>
+          <Link href='/profile'>Profile</Link>
+          <Link href='/about'>About</Link>
+          <Link href='/products'>products</Link>
+          <Link href='/products/1'>first product</Link>
+          <Link href='/products/1/reviews'>First Product Review</Link>
+          <Link href='/about'>About</Link>
+        </div>
+  )
 }
