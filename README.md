@@ -22,5 +22,4 @@ Todo 2: Dengan menggunakan konsep Nested Routes dan Dynamic Routes, buatlah hala
 
 Soal 4
 Todo: Tambahkan link yang sebelumnya anda telah kerjakan!|
-![image](https://drive.google.com/uc?export=view&id=1X_85stQapNDt0O30qFqoXYhKwND94FIO)
-https://drive.google.com/file/d/1VpyIxDHTPriYN7DzkAK3KV1NkAGDNZ6P/view?usp=drive_link, https://drive.google.com/file/d/1yv_b9phnQx6oNL-c5b_Uom3c2O4Cw3c6/view?usp=drive_link, https://drive.google.com/file/d/1yc-XeEgVZXF2HAmB9k_gh8LorSV8fTMC/view?usp=drive_link, https://drive.google.com/file/d/1uFy453nF5oZwYT0eU5FpcB3qf4nGu9Aa/view?usp=drive_link
+![image](https://drive.google.com/uc?export=view&id=1uFy453nF5oZwYT0eU5FpcB3qf4nGu9Aa)
